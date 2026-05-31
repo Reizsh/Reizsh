@@ -14,7 +14,7 @@ Facts:
 - Started using GNU/Linux in the summer of 2024.
 - I like the concept of FOSS.
 - I can repair electronics.
-- I am a big fan of the [Blue Archive](https://en.wikipedia.org/wiki/Blue_Archive), [Team Fortress 2](https://en.wikipedia.org/wiki/Team_Fortress_2), and music.
+- I am a big fan of the [Blue Archive](https://en.wikipedia.org/wiki/Blue_Archive), [Team Fortress 2](https://en.wikipedia.org/wiki/Team_Fortress_2) and music.
 - I write [MGE](https://steamcommunity.com/sharedfiles/filedetails/?id=1731654961) stories about characters from [Team Fortress 2](https://en.wikipedia.org/wiki/Team_Fortress_2).
 
 ### Feedback
