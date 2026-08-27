@@ -1,8 +1,6 @@
 # Hi there 👋
 
-### About me
-
-I work as a system administrator in a small IT company.
+## About me
 
 ### **I am develop/improve:**
 - **Programs.**
